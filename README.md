@@ -33,11 +33,6 @@
 - 📄 Conoce mis experiencias:    [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sindy-malu-huillca-elguera-front-end-developer/)
 
 
-# 📊 GitHub Stats:
-
-![maluhuillcaelguera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=maluhuillcaelguera&show_icons=true&locale=en&layout=compact&theme=dark)
-![maluhuillcaelguera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maluhuillcaelguera&show_icons=true&locale=en&theme=dark)
-![maluhuillcaelguera's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maluhuillcaelguera&theme=dark)
 
 ## Otros Intereses
 
@@ -54,3 +49,10 @@ Aparte de la programación, tengo varios otros intereses y pasatiempos:
 - **🍳 Cocina:** Experimentar con nuevas recetas y cocinar platos deliciosos es una de mis actividades favoritas para relajarme.
 
 - ⚡ Dato curioso** Soy muy divertida 🌈🙋‍♀️**
+
+# 📊 GitHub Stats:
+![maluhuillcaelguera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maluhuillcaelguera&show_icons=true&locale=en&theme=dark)
+![maluhuillcaelguera's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maluhuillcaelguera&theme=dark)
+![maluhuillcaelguera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=maluhuillcaelguera&show_icons=true&locale=en&layout=compact&theme=dark)
+
+
